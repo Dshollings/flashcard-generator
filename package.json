@@ -1,0 +1,23 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Generates Flashcards",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dshollings/flashcard-generator.git"
+  },
+  "author": "dsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dshollings/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/Dshollings/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "string": "^3.3.3"
+  }
+}
